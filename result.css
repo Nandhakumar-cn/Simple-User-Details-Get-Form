@@ -1,0 +1,77 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color:blue;
+    font-size: 40px;
+    padding-left: 30%;
+    text-shadow: 0px 2px 2px skyblue,0px 2px 2px black,3px 5px gold;
+    
+  
+}
+p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 20%;
+    align-items: center;
+    justify-content: center;
+}
+.but{
+    height: 30%;
+  width: 40%;
+  border-radius: 20px;
+ margin-left:35%;
+ font-size: 20px;
+ font-weight: bolder;
+ background-color:black;
+ color: white;
+ border: 2px solid yellow;
+ padding:10px 5px;
+}
+.but:hover{
+    height: 35%;
+    width: 40%;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color:gold;
+    color: black;
+    border: 3px solid black;
+}
+.res1{
+    text-align: center;
+    float: inline-start;
+    margin-right: 400px;
+    margin-bottom: 0%;
+}
+span{
+    text-align: center;
+    color: crimson;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-left: 3%;
+}
+.sp1{
+    color:crimson ;
+    text-transform: lowercase;
+    font-size: 30px;
+}
+/* .p1{
+    padding-left: 30%;
+}
+.p2{
+    padding-left: 20%;
+}
+.p3{
+    padding-left: 12%;
+}
+.p4{
+    padding-left: 5%;
+}
+.p5{
+    padding-right: 2%;
+}
+.p6{
+    padding-right: 12%;
+} */
